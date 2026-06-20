@@ -9,7 +9,7 @@ Estudante de Ciência da Computação na **UFRGS** (Universidade Federal do Rio 
 
 - **Linguagens:** Python, C++, C
 - **Backend & Bancos:** FastAPI, APIs RESTful, MySQL
-- **Gráficos & Performance:** OpenGL, GLM, GLSL (Shaders)
+- **Computação Gráfica:** OpenGL, GLM, GLSL 
 - **Ambiente & Infra:** Linux (Arch/Hyprland), Git, GitHub, CMake, Make
 
 ---
