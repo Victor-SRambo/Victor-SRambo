@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Severino Rambo 👋
+# Olá, sou o Victor 👋
 
 Estudante de Ciência da Computação na **UFRGS** (Universidade Federal do Rio Grande do Sul). 
 
