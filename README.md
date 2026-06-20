@@ -1,4 +1,4 @@
-# Olá, sou o Victor ^_^
+# Olá, sou o Victor!!! ^_^
 
 Estudo Ciência da Computação na **UFRGS** (Universidade Federal do Rio Grande do Sul). 
 
