@@ -1,6 +1,6 @@
-# Olá, sou o Victor 👋
+# Olá, sou o Victor ^_^
 
-Estudante de Ciência da Computação na **UFRGS** (Universidade Federal do Rio Grande do Sul). 
+Estudo Ciência da Computação na **UFRGS** (Universidade Federal do Rio Grande do Sul). 
 
 
 ---
@@ -10,7 +10,7 @@ Estudante de Ciência da Computação na **UFRGS** (Universidade Federal do Rio 
 - **Linguagens:** Python, C++, C
 - **Backend & Bancos:** FastAPI, APIs RESTful, MySQL
 - **Computação Gráfica:** OpenGL, GLM, GLSL 
-- **Ambiente & Infra:** Linux (Arch/Hyprland), Git, GitHub, CMake, Make
+- **Ferramentas:** Linux, Git, GitHub, CMake, Make
 
 ---
 
