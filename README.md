@@ -15,3 +15,5 @@
 ---
 
 ### 🚀 Projetos em Destaque
+- **Dengue Data Engine:** https://github.com/Victor-SRambo/dengue-data-engine
+- **Maratona SBSC:** https://github.com/Maratona-de-Programacao-SBSC/maratonaSBSC
