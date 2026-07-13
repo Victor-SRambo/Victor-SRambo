@@ -1,4 +1,4 @@
-# Olá, sou Victor!!! ^_^
+# Olá, sou Victor!!!
 
 #### Estudo Ciência da Computação na **UFRGS** (Universidade Federal do Rio Grande do Sul). 
 
@@ -12,8 +12,3 @@
 - **Computação Gráfica:** OpenGL, GLM, GLSL 
 - **Ferramentas:** Linux, Git, GitHub, CMake, Make
 
----
-
-### 🚀 Projetos em Destaque
-- **Dengue Data Engine:** https://github.com/Victor-SRambo/dengue-data-engine
-- **Maratona SBSC:** https://github.com/Maratona-de-Programacao-SBSC/maratonaSBSC
