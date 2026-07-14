@@ -9,6 +9,5 @@
 
 - **Linguagens:** Python, C++, C
 - **Backend & Bancos:** FastAPI, APIs RESTful, MySQL
-- **Computação Gráfica:** OpenGL, GLM, GLSL 
 - **Ferramentas:** Linux, Git, GitHub, CMake, Make
 
