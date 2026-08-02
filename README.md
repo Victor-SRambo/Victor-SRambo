@@ -9,5 +9,5 @@
 
 - **Linguagens:** Python, C++, C
 - **Backend & Bancos:** FastAPI, APIs RESTful, MySQL
-- **Ferramentas:** Linux, Git, GitHub, CMake, Make
+- **Ferramentas:** Linux, Git, CMake, Make
 
