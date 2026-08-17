@@ -44,7 +44,7 @@
 
 > Sistema de auditoria de despesas públicas do Portal da Transparência.
     
-- Backend em Python para coleta e armazenamento de duas décadas de despesas públicas do Portal da Transparência;
+- Backend em Python para coleta e armazenamento de décadas de despesas públicas do Portal da Transparência;
 - API REST modular (FastAPI) com busca de despesas por CNPJ de fornecedor;
 - Schema de banco otimizado com tipos compactos e índices compostos por data e município;
 - Pipeline de importação de CSVs direto para MySQL, dobrando a performance de carga do banco;
