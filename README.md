@@ -3,7 +3,7 @@
 ## ✨ **Sobre Mim**
 
 #### Estudo Ciência da Computação na `UFRGS` (Universidade Federal do Rio Grande do Sul). 
-#### Possuo grande interesse em desenvolvimento `Back-End`, `Bancos de Dados` e `Ciências de Dados`.
+#### Possuo grande interesse em desenvolvimento `Back-End`, `Bancos de Dados` e `Engenharia de Dados`.
 
 
 
